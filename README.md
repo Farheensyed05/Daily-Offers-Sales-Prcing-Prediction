@@ -1,1 +1,1 @@
-# Daily-Offers-Sales-Prcing-Prediction
+# Daily-Offers-Sales-Pricing-Prediction
